@@ -1,0 +1,160 @@
+2026.04.22 08:03:31 INFO  Started: Metals version 1.6.7 in folders 'C:\Users\User\OneDrive\Desktop\Buteelt\f.csa311.25b-lab11' for client Visual Studio Code 1.116.0.
+2026.04.22 08:03:31 INFO  time: initialize in 0.12s
+2026.04.22 08:03:31 INFO  Memory monitor started
+2026.04.22 08:03:35 WARN  Using H2 2.4.240 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2026.04.22 08:03:36 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\f.csa311.25b-lab11\back-end\src\main\java\game\App.java. Using fallback presentation compiler.
+2026.04.22 08:03:38 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\f.csa311.25b-lab11\back-end\src\main\java\game\App.java. Using fallback presentation compiler.
+2026.04.22 08:05:07 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\f.csa311.25b-lab11\back-end\src\main\java\game\App.java. Using fallback presentation compiler.
+Apr 22, 2026 8:05:07 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 11
+2026.04.22 08:05:07 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\f.csa311.25b-lab11\back-end\src\main\java\game\App.java. Using fallback presentation compiler.
+2026.04.22 08:05:19 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\f.csa311.25b-lab11\back-end\src\main\java\game\App.java. Using fallback presentation compiler.
+2026.04.22 08:05:19 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\f.csa311.25b-lab11\back-end\src\main\java\game\Game.java. Using fallback presentation compiler.
+Apr 22, 2026 8:05:20 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 14
+2026.04.22 08:05:20 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\f.csa311.25b-lab11\back-end\src\main\java\game\Game.java. Using fallback presentation compiler.
+2026.04.22 08:05:19 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\f.csa311.25b-lab11\back-end\src\main\java\game\Game.java. Using fallback presentation compiler.
+2026.04.22 08:05:20 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\f.csa311.25b-lab11\back-end\src\main\java\game\Game.java. Using fallback presentation compiler.
+2026.04.22 08:05:20 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\f.csa311.25b-lab11\back-end\src\main\java\game\Game.java. Using fallback presentation compiler.
+2026.04.22 08:05:20 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\f.csa311.25b-lab11\back-end\src\main\java\game\Game.java. Using fallback presentation compiler.
+2026.04.22 08:05:20 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\f.csa311.25b-lab11\back-end\src\main\java\game\Game.java. Using fallback presentation compiler.
+2026.04.22 08:05:38 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\f.csa311.25b-lab11\back-end\src\main\java\game\Game.java. Using fallback presentation compiler.
+2026.04.22 08:05:38 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\f.csa311.25b-lab11\back-end\src\main\java\game\GameState.java. Using fallback presentation compiler.
+2026.04.22 08:05:38 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\f.csa311.25b-lab11\back-end\src\main\java\game\GameState.java. Using fallback presentation compiler.
+2026.04.22 08:05:38 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\f.csa311.25b-lab11\back-end\src\main\java\game\GameState.java. Using fallback presentation compiler.
+2026.04.22 08:05:38 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\f.csa311.25b-lab11\back-end\src\main\java\game\GameState.java. Using fallback presentation compiler.
+Apr 22, 2026 8:05:39 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 37
+2026.04.22 08:05:39 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\f.csa311.25b-lab11\back-end\src\main\java\game\GameState.java. Using fallback presentation compiler.
+2026.04.22 08:05:39 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\f.csa311.25b-lab11\back-end\src\main\java\game\GameState.java. Using fallback presentation compiler.
+2026.04.22 08:05:39 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\f.csa311.25b-lab11\back-end\src\main\java\game\GameState.java. Using fallback presentation compiler.
+2026.04.22 08:06:36 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\f.csa311.25b-lab11\back-end\src\main\java\game\GameState.java. Using fallback presentation compiler.
+2026.04.22 08:08:01 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\f.csa311.25b-lab11\back-end\src\main\java\game\Game.java. Using fallback presentation compiler.
+2026.04.22 08:08:01 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\f.csa311.25b-lab11\back-end\src\main\java\game\Game.java. Using fallback presentation compiler.
+Apr 22, 2026 8:08:01 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 47
+2026.04.22 08:08:01 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\f.csa311.25b-lab11\back-end\src\main\java\game\Game.java. Using fallback presentation compiler.
+2026.04.22 08:08:01 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\f.csa311.25b-lab11\back-end\src\main\java\game\Game.java. Using fallback presentation compiler.
+2026.04.22 08:08:03 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\f.csa311.25b-lab11\back-end\src\main\java\game\Game.java. Using fallback presentation compiler.
+2026.04.22 08:08:03 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\f.csa311.25b-lab11\back-end\src\main\java\game\Game.java. Using fallback presentation compiler.
+2026.04.22 08:08:04 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\f.csa311.25b-lab11\back-end\src\main\java\game\Game.java. Using fallback presentation compiler.
+2026.04.22 08:08:04 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\f.csa311.25b-lab11\back-end\src\main\java\game\Game.java. Using fallback presentation compiler.
+Apr 22, 2026 8:08:04 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 59
+2026.04.22 08:08:04 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\f.csa311.25b-lab11\back-end\src\main\java\game\Game.java. Using fallback presentation compiler.
+2026.04.22 08:08:04 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\f.csa311.25b-lab11\back-end\src\main\java\game\Game.java. Using fallback presentation compiler.
+Apr 22, 2026 8:08:04 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 60
+2026.04.22 08:08:06 WARN  no build target for: C:\Users\User\OneDrive\Desktop\Buteelt\f.csa311.25b-lab11\back-end\src\main\java\game\Game.java
+2026.04.22 08:08:06 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\f.csa311.25b-lab11\back-end\src\main\java\game\Game.java. Using fallback presentation compiler.
+2026.04.22 08:08:14 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\f.csa311.25b-lab11\back-end\src\main\java\game\Board.java. Using fallback presentation compiler.
+2026.04.22 08:08:14 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\f.csa311.25b-lab11\back-end\src\main\java\game\Board.java. Using fallback presentation compiler.
+2026.04.22 08:08:14 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\f.csa311.25b-lab11\back-end\src\main\java\game\Board.java. Using fallback presentation compiler.
+2026.04.22 08:08:15 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\f.csa311.25b-lab11\back-end\src\main\java\game\Board.java. Using fallback presentation compiler.
+2026.04.22 08:08:15 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\f.csa311.25b-lab11\back-end\src\main\java\game\App.java. Using fallback presentation compiler.
+2026.04.22 08:08:15 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\f.csa311.25b-lab11\back-end\src\main\java\game\App.java. Using fallback presentation compiler.
+2026.04.22 08:08:15 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\f.csa311.25b-lab11\back-end\src\main\java\game\App.java. Using fallback presentation compiler.
+2026.04.22 08:08:15 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\f.csa311.25b-lab11\back-end\src\main\java\game\App.java. Using fallback presentation compiler.
+2026.04.22 08:08:15 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\f.csa311.25b-lab11\back-end\src\main\java\game\App.java. Using fallback presentation compiler.
+Apr 22, 2026 8:08:16 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 85
+2026.04.22 08:08:16 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\f.csa311.25b-lab11\back-end\src\main\java\game\App.java. Using fallback presentation compiler.
+2026.04.22 08:08:16 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\f.csa311.25b-lab11\back-end\src\main\java\game\App.java. Using fallback presentation compiler.
+2026.04.22 08:08:16 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\f.csa311.25b-lab11\back-end\src\main\java\game\App.java. Using fallback presentation compiler.
+2026.04.22 08:08:17 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\f.csa311.25b-lab11\back-end\src\main\java\game\App.java. Using fallback presentation compiler.
+2026.04.22 08:08:17 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\f.csa311.25b-lab11\back-end\src\main\java\game\App.java. Using fallback presentation compiler.
+2026.04.22 08:08:17 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\f.csa311.25b-lab11\back-end\src\main\java\game\App.java. Using fallback presentation compiler.
+2026.04.22 08:08:18 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\f.csa311.25b-lab11\back-end\src\main\java\game\App.java. Using fallback presentation compiler.
+2026.04.22 08:08:18 WARN  no build target for: C:\Users\User\OneDrive\Desktop\Buteelt\f.csa311.25b-lab11\back-end\src\main\java\game\App.java
+2026.04.22 08:08:18 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\f.csa311.25b-lab11\back-end\src\main\java\game\App.java. Using fallback presentation compiler.
+2026.04.22 08:08:26 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\f.csa311.25b-lab11\back-end\src\main\java\game\GameState.java. Using fallback presentation compiler.
+2026.04.22 08:08:26 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\f.csa311.25b-lab11\back-end\src\main\java\game\GameState.java. Using fallback presentation compiler.
+2026.04.22 08:08:26 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\f.csa311.25b-lab11\back-end\src\main\java\game\GameState.java. Using fallback presentation compiler.
+2026.04.22 08:08:26 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\f.csa311.25b-lab11\back-end\src\main\java\game\GameState.java. Using fallback presentation compiler.
+2026.04.22 08:08:27 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\f.csa311.25b-lab11\back-end\src\main\java\game\GameState.java. Using fallback presentation compiler.
+2026.04.22 08:08:27 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\f.csa311.25b-lab11\back-end\src\main\java\game\GameState.java. Using fallback presentation compiler.
+2026.04.22 08:08:27 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\f.csa311.25b-lab11\back-end\src\main\java\game\GameState.java. Using fallback presentation compiler.
+2026.04.22 08:08:27 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\f.csa311.25b-lab11\back-end\src\main\java\game\GameState.java. Using fallback presentation compiler.
+2026.04.22 08:08:27 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\f.csa311.25b-lab11\back-end\src\main\java\game\GameState.java. Using fallback presentation compiler.
+2026.04.22 08:08:28 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\f.csa311.25b-lab11\back-end\src\main\java\game\GameState.java. Using fallback presentation compiler.
+2026.04.22 08:08:28 WARN  no build target for: C:\Users\User\OneDrive\Desktop\Buteelt\f.csa311.25b-lab11\back-end\src\main\java\game\GameState.java
+2026.04.22 08:08:28 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\f.csa311.25b-lab11\back-end\src\main\java\game\GameState.java. Using fallback presentation compiler.
+2026.04.22 08:08:28 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\f.csa311.25b-lab11\back-end\src\main\java\game\GameState.java. Using fallback presentation compiler.
+2026.04.22 08:08:30 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\f.csa311.25b-lab11\back-end\src\main\java\game\GameState.java. Using fallback presentation compiler.
+2026.04.22 08:09:18 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\f.csa311.25b-lab11\back-end\src\main\java\game\GameState.java. Using fallback presentation compiler.
+2026.04.22 08:09:18 WARN  no build target for: C:\Users\User\OneDrive\Desktop\Buteelt\f.csa311.25b-lab11\back-end\src\main\java\game\GameState.java
+2026.04.22 08:09:18 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\f.csa311.25b-lab11\back-end\src\main\java\game\GameState.java. Using fallback presentation compiler.
+2026.04.22 08:09:18 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\f.csa311.25b-lab11\back-end\src\main\java\game\GameState.java. Using fallback presentation compiler.
+2026.04.22 08:09:18 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\f.csa311.25b-lab11\back-end\src\main\java\game\GameState.java. Using fallback presentation compiler.
+2026.04.22 08:09:19 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\f.csa311.25b-lab11\back-end\src\main\java\game\GameState.java. Using fallback presentation compiler.
+2026.04.22 08:09:22 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\f.csa311.25b-lab11\back-end\src\main\java\game\GameState.java. Using fallback presentation compiler.
+2026.04.22 08:09:22 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\f.csa311.25b-lab11\back-end\src\main\java\game\GameState.java. Using fallback presentation compiler.
+2026.04.22 08:10:04 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\f.csa311.25b-lab11\back-end\src\main\java\game\Cell.java. Using fallback presentation compiler.
+2026.04.22 08:10:04 WARN  no build target for: C:\Users\User\OneDrive\Desktop\Buteelt\f.csa311.25b-lab11\back-end\src\main\java\game\Cell.java
+2026.04.22 08:10:04 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\f.csa311.25b-lab11\back-end\src\main\java\game\GameState.java. Using fallback presentation compiler.
+2026.04.22 08:10:05 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\f.csa311.25b-lab11\back-end\src\main\java\game\GameState.java. Using fallback presentation compiler.
+2026.04.22 08:10:38 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\f.csa311.25b-lab11\back-end\src\main\java\game\GameState.java. Using fallback presentation compiler.
+2026.04.22 08:10:42 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\f.csa311.25b-lab11\back-end\src\main\java\game\GameState.java. Using fallback presentation compiler.
+2026.04.22 08:10:48 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\f.csa311.25b-lab11\back-end\src\main\java\game\GameState.java. Using fallback presentation compiler.
+2026.04.22 08:10:54 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\f.csa311.25b-lab11\back-end\src\main\java\game\GameState.java. Using fallback presentation compiler.
+2026.04.22 08:11:00 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\f.csa311.25b-lab11\back-end\src\main\java\game\GameState.java. Using fallback presentation compiler.
+2026.04.22 08:11:06 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\f.csa311.25b-lab11\back-end\src\main\java\game\GameState.java. Using fallback presentation compiler.
+2026.04.22 08:11:11 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\f.csa311.25b-lab11\back-end\src\main\java\game\GameState.java. Using fallback presentation compiler.
+2026.04.22 08:12:49 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\f.csa311.25b-lab11\back-end\src\main\java\game\Board.java. Using fallback presentation compiler.
+2026.04.22 08:18:18 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\f.csa311.25b-lab11\back-end\src\main\java\game\GameState.java. Using fallback presentation compiler.
+2026.04.22 08:18:23 WARN  no build target for: C:\Users\User\OneDrive\Desktop\Buteelt\f.csa311.25b-lab11\back-end\src\main\java\game\Cell.java
+2026.04.22 08:29:58 INFO  Shutting down server
+2026.04.22 08:29:58 INFO  Memory monitor stopped
+2026.04.22 08:29:58 INFO  shutting down Metals
+2026.04.22 08:30:00 ERROR Unexpected error initializing server: 
+org.eclipse.lsp4j.jsonrpc.ResponseErrorException: Request window/showMessageRequest failed with message: Canceled
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleResponse(RemoteEndpoint.java:214)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:198)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:189)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:97)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:97)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:572)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:317)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.lang.Thread.run(Thread.java:1575)
+
+2026.04.22 08:56:16 INFO  Started: Metals version 1.6.7 in folders 'C:\Users\User\OneDrive\Desktop\Buteelt\f.csa311.25b-lab11' for client Visual Studio Code 1.116.0.
+2026.04.22 08:56:16 INFO  Memory monitor started
+2026.04.22 08:56:19 WARN  Using H2 2.4.240 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2026.04.22 08:58:55 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\f.csa311.25b-lab11\back-end\src\main\java\game\Game.java. Using fallback presentation compiler.
+2026.04.22 08:58:55 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\f.csa311.25b-lab11\back-end\src\main\java\game\App.java. Using fallback presentation compiler.
+2026.04.22 08:59:03 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\f.csa311.25b-lab11\back-end\src\main\java\game\GameState.java. Using fallback presentation compiler.
+2026.04.22 08:59:03 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\f.csa311.25b-lab11\back-end\src\main\java\game\Board.java. Using fallback presentation compiler.
+2026.04.22 09:08:53 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\f.csa311.25b-lab11\back-end\src\main\java\game\GameState.java. Using fallback presentation compiler.
+2026.04.22 09:08:56 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\f.csa311.25b-lab11\back-end\src\main\java\game\GameState.java. Using fallback presentation compiler.
+Apr 22, 2026 9:08:56 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1
+2026.04.22 09:08:56 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\f.csa311.25b-lab11\back-end\src\main\java\game\GameState.java. Using fallback presentation compiler.
+2026.04.22 09:08:56 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\f.csa311.25b-lab11\back-end\src\main\java\game\GameState.java. Using fallback presentation compiler.
+2026.04.22 09:08:57 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\f.csa311.25b-lab11\back-end\src\main\java\game\GameState.java. Using fallback presentation compiler.
+2026.04.22 09:09:01 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\f.csa311.25b-lab11\back-end\src\main\java\game\App.java. Using fallback presentation compiler.
+2026.04.22 09:09:01 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\f.csa311.25b-lab11\back-end\src\main\java\game\App.java. Using fallback presentation compiler.
+2026.04.22 09:09:01 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\f.csa311.25b-lab11\back-end\src\main\java\game\App.java. Using fallback presentation compiler.
+Apr 22, 2026 9:09:02 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 13
+2026.04.22 09:09:01 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\f.csa311.25b-lab11\back-end\src\main\java\game\App.java. Using fallback presentation compiler.
+2026.04.22 09:09:02 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\f.csa311.25b-lab11\back-end\src\main\java\game\App.java. Using fallback presentation compiler.
+2026.04.22 09:09:12 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\f.csa311.25b-lab11\back-end\src\main\java\game\App.java. Using fallback presentation compiler.
+2026.04.22 09:09:12 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\f.csa311.25b-lab11\back-end\src\main\java\game\Board.java. Using fallback presentation compiler.
+2026.04.22 09:09:12 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\f.csa311.25b-lab11\back-end\src\main\java\game\Board.java. Using fallback presentation compiler.
+Apr 22, 2026 9:09:12 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 23
+2026.04.22 09:09:12 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\f.csa311.25b-lab11\back-end\src\main\java\game\Board.java. Using fallback presentation compiler.
+2026.04.22 10:18:47 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\f.csa311.25b-lab11\back-end\src\main\java\game\Board.java. Using fallback presentation compiler.
+2026.04.22 10:21:15 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\f.csa311.25b-lab11\back-end\src\main\java\game\Board.java. Using fallback presentation compiler.
+Apr 22, 2026 11:35:05 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2026.04.22 11:35:06 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\f.csa311.25b-lab11\back-end\src\main\java\game\Board.java. Using fallback presentation compiler.
+2026.04.22 12:52:47 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\f.csa311.25b-lab11\back-end\src\main\java\game\Board.java. Using fallback presentation compiler.
+Apr 22, 2026 12:52:49 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 37
+2026.04.22 12:52:49 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\f.csa311.25b-lab11\back-end\src\main\java\game\Board.java. Using fallback presentation compiler.
+Apr 22, 2026 12:52:49 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 38
+2026.04.22 12:52:49 INFO  no build target found for C:\Users\User\OneDrive\Desktop\Buteelt\f.csa311.25b-lab11\back-end\src\main\java\game\Board.java. Using fallback presentation compiler.

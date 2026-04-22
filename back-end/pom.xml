@@ -27,12 +27,7 @@
                 <artifactId>exec-maven-plugin</artifactId>
                 <version>1.2.1</version>
                 <configuration>
-                    <executable>java</executable>
-                    <arguments>
-                        <argument>-classpath</argument>
-                        <classpath/>
-                        <argument>game.App</argument>
-                    </arguments>
+                    <mainClass>game.App</mainClass>
                 </configuration>
             </plugin>
         </plugins>

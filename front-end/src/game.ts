@@ -1,12 +1,11 @@
-interface GameState {
+export interface GameState {
   cells: Cell[];
+  instructions: string; // Зааварчилгааны текст
 }
 
-interface Cell {
+export interface Cell {
   text: string;
   playable: boolean;
   x: number;
   y: number;
 }
-
-export type { GameState, Cell }

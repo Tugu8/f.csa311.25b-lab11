@@ -1,131 +1,84 @@
-import React from 'react';
-import './App.css'; // import the css file to enable your styles.
-import { GameState, Cell } from './game';
-import BoardCell from './Cell';
+/// <reference types="react" />
 
-/**
- * Define the type of the props field for a React component
- */
-interface Props { }
+import { useState, useEffect } from "react";
+import "./App.css";
+import { GameState, Cell } from "./game";
+import BoardCell from "./Cell";
 
-/**
- * Using generics to specify the type of props and state.
- * props and state is a special field in a React component.
- * React will keep track of the value of props and state.
- * Any time there's a change to their values, React will
- * automatically update (not fully re-render) the HTML needed.
- * 
- * props and state are similar in the sense that they manage
- * the data of this component. A change to their values will
- * cause the view (HTML) to change accordingly.
- * 
- * Usually, props is passed and changed by the parent component;
- * state is the internal value of the component and managed by
- * the component itself.
- */
-class App extends React.Component<Props, GameState> {
-  private initialized: boolean = false;
+function App() {
+  const [gameState, setGameState] = useState<GameState>({
+    cells: [],
+    instructions: "Loading...",
+  });
+  const [moveHistory, setMoveHistory] = useState<GameState[]>([]);
 
-  /**
-   * @param props has type Props
-   */
-  constructor(props: Props) {
-    super(props)
-    /**
-     * state has type GameState as specified in the class inheritance.
-     */
-    this.state = { cells: [] }
-  }
-
-  /**
-   * Use arrow function, i.e., () => {} to create an async function,
-   * otherwise, 'this' would become undefined in runtime. This is
-   * just an issue of Javascript.
-   */
-  newGame = async () => {
-    const response = await fetch('/newgame');
+  const newGame = async () => {
+    const response = await fetch("/newgame");
     const json = await response.json();
-    this.setState({ cells: json['cells'] });
-  }
+    setGameState({ cells: json.cells, instructions: json.instructions });
+    setMoveHistory([]); // Reset history on new game
+  };
 
-  /**
-   * play will generate an anonymous function that the component
-   * can bind with.
-   * @param x 
-   * @param y 
-   * @returns 
-   */
-  play(x: number, y: number): React.MouseEventHandler {
-    return async (e) => {
-      // prevent the default behavior on clicking a link; otherwise, it will jump to a new page.
-      e.preventDefault();
-      const response = await fetch(`/play?x=${x}&y=${y}`)
-      const json = await response.json();
-      this.setState({ cells: json['cells'] });
-    }
-  }
+  const undo = async () => {
+    if (moveHistory.length === 0) return;
 
-  createCell(cell: Cell, index: number): React.ReactNode {
+    const response = await fetch("/undo");
+    const json = await response.json();
+    setGameState({ cells: json.cells, instructions: json.instructions });
+    setMoveHistory(moveHistory.slice(0, -1));
+  };
+
+  const play = (x: number, y: number) => async (e: any) => {
+    e.preventDefault();
+    // Store current state in history before making the move
+    setMoveHistory([...moveHistory, gameState]);
+
+    const response = await fetch(`/play?x=${x}&y=${y}`);
+    const json = await response.json();
+    setGameState({ cells: json.cells, instructions: json.instructions });
+  };
+
+  const createCell = (cell: Cell, index: number): any => {
     if (cell.playable)
-      /**
-       * key is used for React when given a list of items. It
-       * helps React to keep track of the list items and decide
-       * which list item need to be updated.
-       * @see https://reactjs.org/docs/lists-and-keys.html#keys
-       */
       return (
         <div key={index}>
-          <a href='/' onClick={this.play(cell.x, cell.y)}>
+          <a href="/" onClick={play(cell.x, cell.y)}>
             <BoardCell cell={cell}></BoardCell>
           </a>
         </div>
-      )
+      );
     else
       return (
-        <div key={index}><BoardCell cell={cell}></BoardCell></div>
-      )
-  }
-
-  /**
-   * This function will call after the HTML is rendered.
-   * We update the initial state by creating a new game.
-   * @see https://reactjs.org/docs/react-component.html#componentdidmount
-   */
-  componentDidMount(): void {
-    /**
-     * setState in DidMount() will cause it to render twice which may cause
-     * this function to be invoked twice. Use initialized to avoid that.
-     */
-    if (!this.initialized) {
-      this.newGame();
-      this.initialized = true;
-    }
-  }
-
-  /**
-   * The only method you must define in a React.Component subclass.
-   * @returns the React element via JSX.
-   * @see https://reactjs.org/docs/react-component.html
-   */
-  render(): React.ReactNode {
-    /**
-     * We use JSX to define the template. An advantage of JSX is that you
-     * can treat HTML elements as code.
-     * @see https://reactjs.org/docs/introducing-jsx.html
-     */
-    return (
-      <div>
-        <div id="board">
-          {this.state.cells.map((cell, i) => this.createCell(cell, i))}
+        <div key={index}>
+          <BoardCell cell={cell}></BoardCell>
         </div>
-        <div id="bottombar">
-          <button onClick={/* get the function, not call the function */this.newGame}>New Game</button>
-          {/* Exercise: implement Undo function */}
-          <button>Undo</button>
-        </div>
+      );
+  };
+
+  useEffect(() => {
+    newGame();
+  }, []);
+
+  return (
+    <div className="container">
+      <h1 className="title">Tic-Tac-Toe</h1>
+
+      <div id="instructions">{gameState.instructions}</div>
+
+      <div id="board">
+        {gameState.cells.map((cell: Cell, i: number) => createCell(cell, i))}
       </div>
-    );
-  }
+
+      <div id="bottombar">
+        <button className="btn new-game" onClick={newGame}>
+          New Game
+        </button>
+        <button className="btn undo" onClick={undo}>
+          Undo
+        </button>
+      </div>
+    </div>
+  );
 }
 
 export default App;
